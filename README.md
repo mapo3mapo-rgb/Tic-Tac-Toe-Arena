@@ -1,5 +1,3 @@
----
-
 # Tic-Tac-Toe Arena
 
 A terminal tic-tac-toe game with two play modes, a computer opponent, colored output, and large glyphs. This is the final raid project that brings together everything from the course: structs, slices, strings, maps, errors, os.Args, and clean function decomposition.
