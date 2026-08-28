@@ -5,7 +5,7 @@ A terminal tic-tac-toe game with two play modes, a computer opponent, colored ou
 ## How to run
 
 ```bash
-go run . (--players | --ai) [options]
+go run main.go (--players | --ai) [options]
 ```
 
 ### Modes (exactly one required)
@@ -85,7 +85,7 @@ Play again? (y/n): n
 
 ## Team
 
-| Name | GitHub |
+| Name | Pre-Piscine |
 |---|---|
 | Maxat Khiyuazha | @makhiy |
 | David Abramov | @dabramov |
