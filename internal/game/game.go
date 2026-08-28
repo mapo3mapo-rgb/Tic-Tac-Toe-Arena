@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/khiyuazha-cell/Raid-3-Tic-Tac-Toe-Arena/internal/ai"
-	"github.com/khiyuazha-cell/Raid-3-Tic-Tac-Toe-Arena/internal/board"
-	"github.com/khiyuazha-cell/Raid-3-Tic-Tac-Toe-Arena/internal/cli"
+	"github.com/mapo3mapo-rgb/Tic-Tac-Toe-Arena/internal/ai"
+	"github.com/mapo3mapo-rgb/Tic-Tac-Toe-Arena/internal/board"
+	"github.com/mapo3mapo-rgb/Tic-Tac-Toe-Arena/internal/cli"
 )
 
 type Stats struct {
