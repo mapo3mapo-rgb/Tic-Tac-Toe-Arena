@@ -1,3 +1,4 @@
-module github.com/khiyuazha-cell/Raid-3-Tic-Tac-Toe-Arena
-
-go 1.26.5
+import (
+    "tictactoe/internal/cli"
+    "tictactoe/internal/game"
+)
