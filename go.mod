@@ -1,4 +1,1 @@
-import (
-    "tictactoe/internal/cli"
-    "tictactoe/internal/game"
-)
+module github.com/mapo3mapo-rgb/Tic-Tac-Toe-Arena
