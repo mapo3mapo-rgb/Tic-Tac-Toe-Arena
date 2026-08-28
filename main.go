@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/khiyuazha-cell/Raid-3-Tic-Tac-Toe-Arena/internal/cli"
-	"github.com/khiyuazha-cell/Raid-3-Tic-Tac-Toe-Arena/internal/game"
+	"github.com/mapo3mapo-rgb/Tic-Tac-Toe-Arena/internal/cli"
+	"github.com/mapo3mapo-rgb/Tic-Tac-Toe-Arena/internal/game"
 )
 
 func main() {
