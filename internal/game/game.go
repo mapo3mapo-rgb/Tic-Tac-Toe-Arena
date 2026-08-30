@@ -47,10 +47,13 @@ func playGame(b *board.Board, cfg cli.Config, first string, stats *Stats) {
 		var cell int
 
 		if cfg.Mode == "ai" && current == "O" {
-			cell = ai.GetMove(*b)
+			var reason string
+			cell, reason = ai.GetMove(*b)
+
 			fmt.Printf("O plays %d\n", cell)
+
 			if cfg.Verbose {
-				fmt.Printf("AI: played %d\n", cell)
+				fmt.Printf("AI: %s at %d\n", reason, cell)
 			}
 		} else {
 			name := cfg.NameX
