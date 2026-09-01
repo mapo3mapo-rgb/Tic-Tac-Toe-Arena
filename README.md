@@ -51,3 +51,5 @@ O wins!
 | Maxat Khiyuazha | @makhiy |
 | David Abramov | @dabramov |
 | Malika Kossymbayeva | @mkossy |
+## Testing
+All flags verified and tested by @khiyuazha-cell
